@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\Copu\Copu\bin\Debug\net5.0\Copu.exe
+C:\Users\ASUS\Desktop\Copu\Copu\bin\Debug\net5.0\Copu.deps.json
+C:\Users\ASUS\Desktop\Copu\Copu\bin\Debug\net5.0\Copu.runtimeconfig.json
+C:\Users\ASUS\Desktop\Copu\Copu\bin\Debug\net5.0\Copu.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Copu\Copu\bin\Debug\net5.0\Copu.dll
+C:\Users\ASUS\Desktop\Copu\Copu\bin\Debug\net5.0\Copu.pdb
+C:\Users\ASUS\Desktop\Copu\Copu\obj\Debug\net5.0\Copu.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Copu\Copu\obj\Debug\net5.0\Copu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Copu\Copu\obj\Debug\net5.0\Copu.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Copu\Copu\obj\Debug\net5.0\Copu.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Copu\Copu\obj\Debug\net5.0\Copu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Copu\Copu\obj\Debug\net5.0\Copu.dll
+C:\Users\ASUS\Desktop\Copu\Copu\obj\Debug\net5.0\refint\Copu.dll
+C:\Users\ASUS\Desktop\Copu\Copu\obj\Debug\net5.0\Copu.pdb
+C:\Users\ASUS\Desktop\Copu\Copu\obj\Debug\net5.0\Copu.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Copu\Copu\obj\Debug\net5.0\ref\Copu.dll
